@@ -12,7 +12,7 @@
                 <form action="#" method="post" class="clearfix form-reg">
 
 
-                    <h2>Регистрация</h2>
+                    <h2>Вход</h2>
 
                     <div class="form-group row">
                         <label for="login-input" class="col-2 col-form-label">Логин</label>
