@@ -32,7 +32,7 @@
                         </div>
                     </div>
 
-                    <input class="btn btn-primary pull-right" name="submit" type="submit" value="Загрузить">
+                    <input class="btn btn-primary pull-right" name="submit" type="submit" value="Сохранить">
                 </form>
             <?php } ?>
         </div>
